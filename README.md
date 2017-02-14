@@ -3,7 +3,7 @@
 This is our Java program that can sort Sakespeare's complete works or any other text file.
 
 We have made a simple console menu system so that you can choose from the three sorting algorithms(Selection/Insertion/Merge sort) 
-by choosing either of the numbers 1, 2, 3. 
+by choosing either of the numbers 1, 2, 3.
 
 It will then show the execution time of the selected method, as well as giving you the option to try another sorting algorithm.
 
